@@ -1,4 +1,4 @@
 # helloworld
-import tensorflow as tf
-import numpy as np
-print('hello world')
+this is just a testing projects. i have deleted the tf based code.
+Vala!!!
+Felix
